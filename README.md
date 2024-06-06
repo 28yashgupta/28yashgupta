@@ -3,7 +3,7 @@
 
 
 
-### I'm a full stack  web developer from Delhi, India
+### I'm an AI and Ml enthusiast  from Delhi, India
 
 
 
